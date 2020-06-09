@@ -1,4 +1,4 @@
-def birthday_kids = {
+def  = {
 #   "Timmy" => 9, 
 #   "Sarah" => 6, 
 #   "Amanda" => 27
